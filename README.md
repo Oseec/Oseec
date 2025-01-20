@@ -2,7 +2,7 @@
 
 
 
-- 🔭 studying Computer Engineering at Tecnologico de Costa Rica
+- 🔭 studying Computer Engineering at [El Tecnológico de Costa Rica](https://www.tec.ac.cr/)
 - 🌱 currently learning Web3
 
 
